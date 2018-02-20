@@ -1,4 +1,4 @@
-package plCoderslab.zad1guessgame;
+package guessgame;
 
 
 

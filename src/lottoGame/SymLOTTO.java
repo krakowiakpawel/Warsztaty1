@@ -1,4 +1,4 @@
-package plCoderslab.zad2LottoGame;
+package lottoGame;
 
 import java.util.Arrays;
 import java.util.Collections;

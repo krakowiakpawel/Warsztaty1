@@ -1,4 +1,4 @@
-package plCoderslab.zad4Dices;
+package dices;
 
 import java.util.Random;
 import java.util.Scanner;
