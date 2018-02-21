@@ -18,15 +18,15 @@ Where:
 
 Guess a number from range 1-100
 
-!(krakowiakpawel.github.com/Workshops12.2017/screenshots/2.png)
+!(https://raw.githubusercontent.com/krakowiakpawel/Workshops12.2017/master/screenshots/4.png)
 
 ### LottoGame
 
 Guess 6 of 49 numbers and become a millionaire!
 
-!(krakowiakpawel.github.com/Workshops12.2017/screenshots/3.png)
+!(https://raw.githubusercontent.com/krakowiakpawel/Workshops12.2017/master/screenshots/3.png)
 
 
 ### Paper - Stone - Scissor
 Chose one of three and play with computer. 
-!(krakowiakpawel.github.com/Workshops12.2017/screenshots/1.png)
+!(https://raw.githubusercontent.com/krakowiakpawel/Workshops12.2017/master/screenshots/1.png)
