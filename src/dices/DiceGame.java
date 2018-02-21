@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class DiceGame {
 	public static void main(String[] args) {
+		System.out.println("HI");
 		try {
 			String input = getData().replaceAll(" ", "");
 			// X

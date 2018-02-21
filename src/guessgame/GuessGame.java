@@ -7,7 +7,8 @@ public class GuessGame {
 	public static void main(String[] args) {
 		System.out.println("Witamy w grze");
 		Random generator = new Random();
-		int goal = generator.nextInt(2) + 1;
+		int goal = generator.nextInt(100) + 1;
+		goal = 55;
 		int userGuess = userGuess();
 		int count = 1;
 
