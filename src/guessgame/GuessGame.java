@@ -8,7 +8,6 @@ public class GuessGame {
 		System.out.println("Witamy w grze");
 		Random generator = new Random();
 		int goal = generator.nextInt(100) + 1;
-		goal = 55;
 		int userGuess = userGuess();
 		int count = 1;
 
@@ -26,12 +25,11 @@ public class GuessGame {
 			count++;
 		}
 		if (userGuess != 666) {
-		System.out.println("Sukces!");
-		System.out.println("Ilość prób: " + count);
+			System.out.println("Sukces!");
+			System.out.println("Ilość prób: " + count);
 		} else {
 			System.out.println("Koniec gry");
 		}
-			
 
 	}
 
